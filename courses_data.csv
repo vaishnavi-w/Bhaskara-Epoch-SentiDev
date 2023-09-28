@@ -1,0 +1,6 @@
+Course,Average Rating,Num_Positive,Num_Negative,Num_Neutral,Sentiment
+Algorithms,2.67578125,15,9,3,Negative
+Deep Learning,2.345458984375,8,7,4,Positive
+Data structures,2.6,16,2,1,Positive
+Compilers,2.2,12,5,3,Negative
+Parallel Computing,1.5,4,11,4,Negative
