@@ -12,7 +12,7 @@ The Student Courses Review App is a web application built using Dash, a Python f
 
 - **Sentiment Analysis:** The app performs sentiment analysis on review comments to determine whether they are positive, negative, or neutral. Users can view sentiment distribution charts for each course.
 
-To get model, run the ipynb file
+To get model, run the ipynb file using the dataset - https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/data?select=train.tsv.zip
 
 To run
 ```
